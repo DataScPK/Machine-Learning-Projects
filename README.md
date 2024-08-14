@@ -1,4 +1,9 @@
 # Heart-Disease Prediction using Machine-Learning
-1. Here I've kept all the projects related to machine learning.
-2. You can explore various prediction models like Classification, Regression as well as Clustering.
-3. Explore my repository to learn various algorthims and don't forget to share your valuable feedback at my place!
+I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
+
+Machine Learning algorithms used:
+K-Nearest Neighbours (Scikit-learn)
+Decision Tree (Scikit-learn)
+Random Forest (Scikit-learn)
+
+Accuracy achieved: 85.13% (Random Forest)
